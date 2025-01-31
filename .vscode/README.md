@@ -3,7 +3,7 @@
 <p>
 Este projeto foi desenvolvido enquanto eu estudava o básico de programação de front-end com um mini curso da Rocketseat. A página inclui uma seção de perfil, links para redes sociais, e um botão de alternância de temas (claro e escuro).
 
-O design foi inspirado em um projeto fornecido como referência pela Rocketseat.
+O design foi inspirado em um projeto fornecido como referência pela RocketSeat.
 </p>
 <h2>Tecnologias Utilizadas</h2>
 <ul>
